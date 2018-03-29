@@ -1,7 +1,6 @@
 ---
 layout: cv
 title: Chengrui's CV
-pdf: true
 ---
 
 # __Chengrui WU__
@@ -130,7 +129,7 @@ Tianjin University, #135 Yaguan Road, Jinnan District, Tianjin (300350) China
 ## __Honors and Awards__
 
 - Merit Student Leader’s Award, Tianjin University - `11/2017`
-- Merit Student Award, Tianjin University - `11/2015 &  11/2016`
+- Merit Student Award, Tianjin University - `11/2015 & 11/2016`
 - Advanced individual in student association activities, Tianjin University
 - Advanced individual in psychological health and education, Tianjin University
 - Advanced individual in voluntary service , Tianjin University
