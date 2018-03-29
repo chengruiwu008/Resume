@@ -33,7 +33,7 @@ Tianjin University, #135 Yaguan Road, Jinnan District, Tianjin (300350) China
 
 - GPA: __3.90__ / 4.3
 
-### __ESPCI Paris__ | PSL ` 01/2018 - 05/2018`
+### __ESPCI Paris__ | PSL `01/2018 - 05/2018`
 
 >_Research Intern_ | Laboratoire de Chimie Organique
 
@@ -110,12 +110,13 @@ Tianjin University, #135 Yaguan Road, Jinnan District, Tianjin (300350) China
 
 ## __Publications__
 
-- __Direct, Near Real Time Animation of a 3D Tongue Model Using Noninvasive Ultrasound Images__ _Third Co-author_ | `ISCASSP 2018 Calgary. Lecture Presentation`
-- __Predicting Tongue Motion in Unlabeled Ultrasound Video Using 3D-CNN__ _First author_ | `ICASSP 2018 Calgary. Poster Presentation` [code](https://github.com/chengruiwu008/PREDICTING-TONGUE-MOTION-IN-UNLABELED-ULTRASOUND-VIDEO-USING-3D-CONVOLUTIONAL-NEURAL-NETWORKS)
+- __DIRECT, NEAR REAL TIME ANIMATION OF A 3D TONGUE MODEL USING NON-INVASIVE ULTRASOUND IMAGES__ _Third Co-author_ | `ISCASSP 2018 Calgary. Lecture Presentation`
+- __PREDICTING TONGUE MOTION IN UNLABELED ULTRASOUND VIDEO USING 3D CONVOLUTIONAL NEURAL NETWORKS__ _First author_ | `ICASSP 2018 Calgary. Poster Presentation` [code](https://github.com/chengruiwu008/PREDICTING-TONGUE-MOTION-IN-UNLABELED-ULTRASOUND-VIDEO-USING-3D-CONVOLUTIONAL-NEURAL-NETWORKS)
 
 ****
 
 ## __Leadership & Activities__
+
 - Vice-Captain, Wing Of Dream Volunteer Teaching Team |  `07/2015`
 - President & Liaison Minister, Tianjin University Leap Club | `09/2014 - 07/2016`
 - Administration Minister, Tianjin University Young Volunteers Association | `09/2014 - 07/2016`
