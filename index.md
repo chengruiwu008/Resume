@@ -10,6 +10,7 @@ title: Chengrui's CV
 (86) - 152xxxxxxxx
 <i class="fi-mail" style="margin-left:1em"></i>
 <a href="wcrtju01@tju.edu.cn" style="margin-left:0.5em">wcrtju01@tju.edu.cn</a>
+<a href="https://github.com/chengruiwu008" style="margin-left:1em">github</a>
 </div>
 
 <div id="address" style="margin-left:1em">
@@ -102,9 +103,9 @@ Tianjin University, #135 Yaguan Road, Jinnan District, Tianjin (300350) China
 
 ### __Computer Simulation of Chemical Process__ `03/2017 - 06/2017`
 > Simulation and Analysis of Crude Benzene Refining Process
-    >- Used ASPEN PLUS to establish strict simulation model and conduct property analysis. 
-    >- Analysis and Optimization of Synthetic Ammonia Production Process
-    >- Employed python to simulate The reaction process of Synthetic Ammonia Production and verified conservation of mass in EXCEL accordingly.
+    > - Used ASPEN PLUS to establish strict simulation model and conduct property analysis. 
+    > - Analysis and Optimization of Synthetic Ammonia Production Process
+    > - Employed python to simulate The reaction process of Synthetic Ammonia Production and verified conservation of mass in EXCEL accordingly.
 
 ****
 
@@ -119,7 +120,7 @@ Tianjin University, #135 Yaguan Road, Jinnan District, Tianjin (300350) China
 
 - Vice-Captain, Wing Of Dream Volunteer Teaching Team |  `07/2015`
 - President & Liaison Minister, Tianjin University Leap Club | `09/2014 - 07/2016`
-- Administration Minister, Tianjin University Young Volunteers Association | `09/2014 - 07/2016`
+- Administration Minister, Young Volunteers Association | `09/2014 - 07/2016`
 - Administration & Project Division, Tianjin University Enactus | `09/2014 - 07/2016`
 - Class Psychological Commissioner | `09/2014- 07/2018`
 - Mentor Assistant, Classes of Chemical Engineering Materials | `09/2015 - 07/2018`
@@ -133,7 +134,7 @@ Tianjin University, #135 Yaguan Road, Jinnan District, Tianjin (300350) China
 - Merit Student Award, Tianjin University - `11/2015 & 11/2016`
 - Advanced individual in student association activities, Tianjin University
 - Advanced individual in psychological health and education, Tianjin University
-- Advanced individual in voluntary service , Tianjin University
+- Advanced individual in voluntary service, Tianjin University
 
 ****
 
