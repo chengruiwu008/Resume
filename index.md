@@ -111,7 +111,7 @@ Tianjin University, #135 Yaguan Road, Jinnan District, Tianjin (300350) China
 ## __Publications__
 
 - __Direct, Near Real Time Animation of a 3D Tongue Model Using Noninvasive Ultrasound Images__ _Third Co-author_ | `ISCASSP 2018 Calgary. Lecture Presentation`
-- __Predicting Tongue Motion in Unlabeled Ultrasound Video Using 3D-CNN__ _First author_ | `ICASSP 2018 Calgary. Poster Presentation`
+- __Predicting Tongue Motion in Unlabeled Ultrasound Video Using 3D-CNN__ _First author_ | `ICASSP 2018 Calgary. Poster Presentation` [code](https://github.com/chengruiwu008/PREDICTING-TONGUE-MOTION-IN-UNLABELED-ULTRASOUND-VIDEO-USING-3D-CONVOLUTIONAL-NEURAL-NETWORKS)
 
 ****
 
