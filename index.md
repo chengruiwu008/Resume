@@ -102,7 +102,7 @@ Tianjin University, #135 Yaguan Road, Jinnan District, Tianjin (300350) China
 - Used Mathematica to solve power series and Fourier series so as to understand its intuitive significance through computer practice and graphical demonstration.
 
 ### __Computer Simulation of Chemical Process__ `03/2017 - 06/2017`
-> Simulation and Analysis of Crude Benzene Refining Process
+>Simulation and Analysis of Crude Benzene Refining Process
     > - Used ASPEN PLUS to establish strict simulation model and conduct property analysis. 
     > - Analysis and Optimization of Synthetic Ammonia Production Process
     > - Employed python to simulate The reaction process of Synthetic Ammonia Production and verified conservation of mass in EXCEL accordingly.
@@ -118,13 +118,13 @@ Tianjin University, #135 Yaguan Road, Jinnan District, Tianjin (300350) China
 
 ## __Leadership & Activities__
 
-- Vice-Captain, Wing Of Dream Volunteer Teaching Team |  `07/2015`
-- President & Liaison Minister, Tianjin University Leap Club | `09/2014 - 07/2016`
-- Administration Minister, Young Volunteers Association | `09/2014 - 07/2016`
-- Administration & Project Division, Tianjin University Enactus | `09/2014 - 07/2016`
-- Class Psychological Commissioner | `09/2014- 07/2018`
-- Mentor Assistant, Classes of Chemical Engineering Materials | `09/2015 - 07/2018`
-- Microsoft Student Club | `09/2017 - 07/2018`
+- Vice-Captain, Wing Of Dream Volunteer Teaching Team   `07/2015`
+- President & Liaison Minister, Tianjin University Leap Club  `09/2014 - 07/2016`
+- Administration Minister, Young Volunteers Association  `09/2014 - 07/2016`
+- Administration & Project Division, Tianjin University Enactus  `09/2014 - 07/2016`
+- Class Psychological Commissioner  `09/2014- 07/2018`
+- Mentor Assistant, Classes of Chemical Engineering Materials  `09/2015 - 07/2018`
+- Microsoft Student Club  `09/2017 - 07/2018`
 
 ****
 
