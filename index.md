@@ -21,31 +21,31 @@ Tianjin University, #135 Yaguan Road, Jinnan District, Tianjin (300350) China
 
 ## __Education__
 
-### __Tianjin University__ `09/2016 - 07/2018 `
+### __Tianjin University__ | `09/2016 - 07/2018 `
 
 >_B.Eng. in Chemical Engineering_ | Qiushi Honor College
 
 - GPA: __3.76__ / 4.0 , __90.0__ / 100
 - Top __10%__ in the department
 
-### __National Tsing Hua University__ (Taiwan) `09/2014 - 01/2017`
+### __National Tsing Hua University__ (Taiwan) | `09/2014 - 01/2017`
 
 >_Exchange Program_ | Department of Chemical Engineering
 
 - GPA: __3.90__ / 4.3
 
-### __ESPCI Paris__ | PSL `01/2018 - 05/2018`
+### __ESPCI Paris__ | PSL | `01/2018 - 05/2018`
 
 >_Research Intern_ | Laboratoire de Chimie Organique
 
-### __Columbia University__ `09/2018 - 01/2020` 
+### __Columbia University__ | `09/2018 - 01/2020` 
 >_M.S. in Data Science_ | The Fu Foundation School of Engineering & Applied Science
 
 ****
 
 ## __Experiences in Research__
 
-### _Research Intern_ | Bruce Denby’s Silence Speech Laboratory `03/2017 - 07/2018`
+### _Research Intern_ | Bruce Denby’s Silence Speech Laboratory | `03/2017 - 07/2018`
 >__Direct, Near Real Time Animation of a 3D Tongue Model Using Noninvasive Ultrasound Images__
 > - Capture the action of moving tongues by ultrasound and applying finite element algorithm to process the Ultrasound video to find the moving contours of the tongues.
 > - Employing an algorithm called SNAKE to drive a 3D tongue model interface to obtain a realistic 3D simulation of the tongue.
@@ -64,7 +64,7 @@ Tianjin University, #135 Yaguan Road, Jinnan District, Tianjin (300350) China
 >- Developing CNN structure to train on two corresponding video sequences simultaneously.
 >- Using the result to improve performance of silence speech recognition in Kaldi.
 
-### _Research Intern_ | Laboratoire de Chimie Organique ESPCI Paris `01/2018 - 05/2018`
+### _Research Intern_ | Laboratoire de Chimie Organique ESPCI Paris | `01/2018 - 05/2018`
 >__Prediction of NMR Chemical Shifts of Aromatic Compounds with Graph Machine__
 >- Developing python program to transfer SMILES code into Graph Machine Structure.
 >- Using Docker environment to build and train the Graph Machine.
@@ -90,22 +90,22 @@ Tianjin University, #135 Yaguan Road, Jinnan District, Tianjin (300350) China
 
 ## __Academic Research Projects__
 
-### __The Calculation Method of Mixture's Bubble Point__ - Chemical Engineering Mathematics `04/2015 - 05/2015`
+### __The Calculation Method of Mixture's Bubble Point__ - Chemical Engineering Mathematics | `04/2015 - 05/2015`
 
 - Aimed to solve programming computational problems of mixture's bubble point to contribute to its application in chemical engineering design.
 - Carried the algorithm analysis towards Antoine equation, Calculation of the molar volume of liquid and Wilson equation.
 - Used Gauss - Newton method for nonlinear fitting, and showed the algorithm of bubble point temperature and composition.
 - Established appropriate mathematical model, used C++ language to solve the model and compared with application of MATLAB in technical experiments data processing.
 
-### __Mathematics Experiment Course Work__ `03/2015 - 05/2015`
+### __Mathematics Experiment Course Work__ | `03/2015 - 05/2015`
 - Learned Mathematica for the calculation of multivariate function calculus, the operation of matrix, and solving a system of linear equations.
 - Used Mathematica to solve power series and Fourier series so as to understand its intuitive significance through computer practice and graphical demonstration.
 
-### __Computer Simulation of Chemical Process__ `03/2017 - 06/2017`
+### __Computer Simulation of Chemical Process__ | `03/2017 - 06/2017`
 >Simulation and Analysis of Crude Benzene Refining Process
-    > - Used ASPEN PLUS to establish strict simulation model and conduct property analysis. 
-    > - Analysis and Optimization of Synthetic Ammonia Production Process
-    > - Employed python to simulate The reaction process of Synthetic Ammonia Production and verified conservation of mass in EXCEL accordingly.
+>- Used ASPEN PLUS to establish strict simulation model and conduct property analysis. 
+>- Analysis and Optimization of Synthetic Ammonia Production Process
+>- Employed python to simulate The reaction process of Synthetic Ammonia Production and verified conservation of mass in EXCEL accordingly.
 
 ****
 
